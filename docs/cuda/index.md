@@ -1,0 +1,1 @@
+- [Getting Started with OpenCV CUDA Module](https://learnopencv.com/getting-started-opencv-cuda-module/)
